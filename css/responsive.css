@@ -23,8 +23,13 @@
 		-moz-columns: 100px 1;
 	}
 	
+  #main-social li.main-social-icon {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+  }
 	.team-img-holder img{ width: 50% }
-	.service{ margin-bottom: 11px; }
+	.service{ margin-bottom: 11px; min-height: 0; }
 	.services-row{ margin-bottom: 0px; }
 	.client{ margin-bottom: 22px; }
 	.client img{ width: 50%; }

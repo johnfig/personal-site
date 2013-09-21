@@ -5,7 +5,7 @@ if ($_POST) {
     $text  = $_POST['text'];
     
     //send email   
-    mail("craig@userfriendlyit.com.au", "email enquiry", $text, "From:" . $email);
+    mail("cjkochis@gmail.com", "email enquiry", $text, "From:" . $email);
 }
 
 ?>

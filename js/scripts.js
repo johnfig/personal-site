@@ -60,15 +60,15 @@ $(document).ready(function(){
 	
 	// Service Clicks
 	
-	$('.service').click(function(){
-	
-		if($(this).hasClass('open-service')){
-			$(this).removeClass('open-service');
-		}else{
-			$(this).addClass('open-service');
-		}
-	
-	});
+	// $('.service').click(function(){
+	// 
+	// 	if($(this).hasClass('open-service')){
+	// 		$(this).removeClass('open-service');
+	// 	}else{
+	// 		$(this).addClass('open-service');
+	// 	}
+	// 
+	// });
 	
 	// Open & Close Projects
 	
