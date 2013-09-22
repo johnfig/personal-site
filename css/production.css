@@ -2610,7 +2610,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #quote-divider{
-	background: url('/Users/kochis/Desktop/cal_anderson.jpg');
+	background: url('../img/cal_anderson.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
@@ -2652,7 +2652,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #clients{
-	background: url('/Users/kochis/Desktop/flannel_grammed.jpg');
+	background: url('../img/flannel_grammed.jpg');
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
